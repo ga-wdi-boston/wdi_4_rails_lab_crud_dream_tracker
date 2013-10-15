@@ -1,2 +1,3 @@
-ga-lab-rails-dream-tracker
-==========================
+# Dream Tracker
+
+Create a rails application to track your dreams. 
